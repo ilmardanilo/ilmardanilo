@@ -1,11 +1,11 @@
-### Opa! Tudo certo? Eu sou o Ilmar ✌️😁
-Sou desenvolvedor back-end na [Quero Delivery](https://querodelivery.com/), apaixonado por 💻 tecnologia, 🎮 games e 🏋️‍♂️ esportes :D
+## 👋 Hi, I'm Ilmar ✌️😁
+I'm a back-end developer at [Quero Delivery](https://querodelivery.com/), passionate about 💻 Technology, 🎮 Games, 🏋️‍♂️ Sports and 👨‍💻 Solve Problems :D
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plinioaugusto/)](https://www.linkedin.com/in/ilmardanilo/)
 
 ![Ilmar GitHub stats](https://github-readme-stats.vercel.app/api?username=ilmardanilo&show_icons=true&theme=dracula)
 
-## Principais tecnologias e ferrametas que utilizo no meu dia a dia
+### Some technologies I use daily
 
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
