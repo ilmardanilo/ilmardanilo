@@ -1,11 +1,14 @@
-## 👋 Hi, I'm Ilmar ✌️😁
-I'm a back-end developer at [Quero Delivery](https://querodelivery.com/), passionate about 💻 Technology, 🎮 Games, 🏋️‍♂️ Sports and 👨‍💻 Solve Problems :D
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ilmar Danilo</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plinioaugusto/)](https://www.linkedin.com/in/ilmardanilo/)
+- 👨‍💻 Back-end developer 
 
-![Ilmar GitHub stats](https://github-readme-stats.vercel.app/api?username=ilmardanilo&show_icons=true&theme=dracula)
+- 💼 I’m currently working at [Quero Delivery](https://querodelivery.com)
 
-### Some technologies I use daily
+- 🥰 Passionate about 💻 Technology, 🎮 Games, 🏋️‍♂️ Sports and 🧠 Solve Problems :D
+
+<br><br>
+
+## 🛠 &nbsp;Some technologies I use daily
 
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
@@ -17,4 +20,14 @@ I'm a back-end developer at [Quero Delivery](https://querodelivery.com/), passio
   <img align="center" alt="postgres" src="https://skillicons.dev/icons?i=postgres" />
   <img align="center" alt="docker" src="https://skillicons.dev/icons?i=docker" />
   <img align="center" alt="linux" src="https://skillicons.dev/icons?i=linux" />
-</div><br/>
+</div>
+
+<br><br>
+
+## ✉️ Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/ilmardanilo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ilmardanilo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
